@@ -1,6 +1,6 @@
 # Visual data exploration and examination
 
-[Matplotlib, Seaborn and Pandas]
+**Matplotlib, Seaborn & Pandas**
 
 The purpose of this project was to explore and analyse different kinds of data sets and extracting some insights and hypothesis out of them.
 
